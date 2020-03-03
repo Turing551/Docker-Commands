@@ -1,2 +1,4 @@
-# Docker-Commands
-List of Docker Commands
+|    Command   |     Description     |     Usage     |
+| -------      |     -----------     |     -----     |
+| `git init`   | Initialize a local Git repository| adsd  |
+
