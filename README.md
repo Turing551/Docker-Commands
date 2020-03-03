@@ -1,4 +1,4 @@
-|    Command   |     Description     |     Usage     |
-| -------      |     -----------     |     -----     |
-| `git init`   | Initialize a local Git repository| adsd  |
+|      Command      |     Description     |     Usage     |
+|      -------      |     -----------     |     -----     |
+| `docker -version` | command used to get the currently installed version of docker|  |
 
