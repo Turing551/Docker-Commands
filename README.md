@@ -1,7 +1,7 @@
 |      Command      |     Description     |     Usage     |
 |      -------      |     -----------     |     -----     |
 | `docker -version` | command used to get the currently installed version of docker         |                                     |
-| `docker pull`     | command used to pull images from the docker repository(hub.docker.com)| docker pull <image name>            |
+| `docker pull`     | command used to pull images from the docker repository(hub.docker.com)| `docker pull <image name>`          |
 | `docker run`      | command used to create a container from an image                      | docker run -it -d <image name>      |
 | `docker ps`       | command used to list the running containers                           |                                     |
 | `docker ps -a`    | command used to show all the running and exited containers            |                                     |
