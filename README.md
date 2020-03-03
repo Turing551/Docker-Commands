@@ -15,3 +15,7 @@
 | `docker rmi`      | command used to delete an image from local storage                    | `docker rmi <image-id>`               |
 | `docker build`    | command used to build an image from a specified docker file           | `docker build <path to docker file>`  |
 
+
+### Difference between `docker kill` and `docker stop`
+
+The difference between `‘docker kill’` and `‘docker stop’` is that `‘docker stop’` gives the container time to shutdown gracefully, in situations when it is taking too much time for getting the container to stop, one can opt to kill it.
